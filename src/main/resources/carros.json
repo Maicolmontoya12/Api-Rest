@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "precio": 25000000
+    },
+    {
+        "id": 2,
+        "marca": "Chevrolet",
+        "modelo": "Spark",
+        "precio": 15000000
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 18000000
+    },
+    {
+        "id": 4,
+        "marca": "Hyundai",
+        "modelo": "Tucson",
+        "precio": 35000000
+    }
+]
